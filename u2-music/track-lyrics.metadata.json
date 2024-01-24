@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"929ce67d67414d51ac10c6530907c529","collectionName":"track-lyrics","type":"collection"}

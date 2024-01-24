@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"31fe542a8be543b190b1be31906d2c9a","collectionName":"wakaconnections","type":"collection"}

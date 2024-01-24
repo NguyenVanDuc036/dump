@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"entranceId":{"$numberInt":"1"}},"name":"entranceId_1","background":true,"unique":true}],"uuid":"745b10921aac48fea33be6e1634cf915","collectionName":"entrancerecords","type":"collection"}

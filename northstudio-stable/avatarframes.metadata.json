@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b7a20aab3cce4e00ae49a15ccb19d066","collectionName":"avatarframes","type":"collection"}
